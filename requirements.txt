@@ -1,0 +1,6 @@
+pyinstaller
+vosk
+pyaudio
+pyttsx3
+pypinyin
+traceback
